@@ -1,0 +1,8 @@
+.stars {
+  text-align: center;
+  margin-top: 20px;
+}
+.star {
+  list-style-type: none;
+  display: inline;
+}
